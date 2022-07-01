@@ -1,0 +1,28 @@
+#  GIT E GITHUB
+
+## Git
+
+### Introdução
+
+o GIT é um *Sistema de Controle de Versões Distribuído* — ou DVCS. O **Git** também possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
+
+### Vantagem do Git
+
+Ao criar um determinado site o software, o Git possibilita modificar uma determinada função - retira-lá ou inclui outra função ao  código - *economizando tempo e trabalho*.
+
+## GitHub
+
+O GitHub facilita o controle de versões de um software ou aplicação. Ele é, também, o maior repositório de softwares de código aberto da internet.
+
+### Vantagem do GitHub
+
+Dá a oportunidade de aprender com programadores e mais experientes, especializado nas mesmas ou em diferentes áreas. 
+
+- Possibilidade de acompanhar e colaborar com projetos de diferentes equipes;
+- Aprender programação na prática ao observar o avanço do desenvolvimento de aplicações de terceiros;
+- Obter auxílio de outros programadores para resolver problemas relacionados a seus projetos;
+- Controlar as diferentes versões de um código com armazenamento em nuvem;
+- Registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online.
+
+
+
